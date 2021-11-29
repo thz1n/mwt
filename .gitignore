@@ -1,0 +1,9 @@
+__commons__/keys
+__commons__/node_modules
+__commons__/__tests__
+accounts-service/node_modules
+accounts-service/dist
+accounts-service/.env
+characters-service/node_modules
+characters-service/dist
+characters-service/.env
